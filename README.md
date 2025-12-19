@@ -16,3 +16,4 @@ Smart Student Performance Analytics System is a Python-based application designe
 - Git & GitHub
 
 ## Project Structure
+Smart-Student-Performance-Analytics/ │ ├── main.py          # Main application logic ├── database.py      # Database connection and table creation ├── requirements.txt # Project dependencies └── README.md        # Project documentation
